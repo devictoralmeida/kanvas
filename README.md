@@ -1,6 +1,6 @@
 # Kanvas
 
-O projeto se trata de uma API Rest para para o gerenciamento de cursos e aulas de uma escola de modalidade EAD.
+O projeto se trata de uma API Rest desenvolvida com Python e Django, com o objetivo de facilitar o gerenciamento de alunos, cursos e aulas de uma escola de modalidade EAD.
 
 ## Link para documentação:
 
