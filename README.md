@@ -12,7 +12,7 @@ https://kanvas-api.onrender.com/api/docs
 
 </br>
 
-https://kanvas-api.onrender.com/
+https://kanvas-api.onrender.com/api/
 
 ### Tecnologias utilizadas:
 
