@@ -1,18 +1,24 @@
-# Kanvas
-
-O projeto se trata de uma API Rest para para o gerenciamento de cursos e aulas de uma escola de modalidade EAD.
-
-## Link para documentação:
+<h1 align="center">
+  Kanvas - API
+</h1>
 
 </br>
 
-https://kanvas-api.onrender.com/api/docs
-
-## Link para deploy:
+<h3 align="center">
+  A URL base da api é: https://kanvas-api.onrender.com/api/
+</h3>
 
 </br>
 
-https://kanvas-api.onrender.com/
+<h3 align="center">
+  Acesse o link para a documentação: https://kanvas-api.onrender.com/api/docs/
+</h3>
+
+</br>
+
+## Visão Geral
+
+O projeto se trata de uma API Rest desenvolvida com Python e Django, com o objetivo de facilitar o gerenciamento de alunos, cursos e aulas de uma escola de modalidade EAD.
 
 ### Tecnologias utilizadas:
 
