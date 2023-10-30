@@ -4,6 +4,7 @@ from drf_spectacular.views import (
     SpectacularAPIView,
     SpectacularSwaggerView,
 )
+from django.shortcuts import redirect
 
 urlpatterns = [
     path("admin/", admin.site.urls),
@@ -16,4 +17,8 @@ urlpatterns = [
         SpectacularSwaggerView.as_view(url_name="schema"),
         name="swagger-ui",
     ),
+    path(
+        '',
+        lambda request: redirect('/api/docs/')
+    )
 ]
